@@ -1,2 +1,2 @@
-# blockchain-js-example
-Example of blockchain behavior
+# Blockchain js example
+Example of blockchain behavior. 
